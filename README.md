@@ -44,17 +44,17 @@ Processing-Works 项目依赖以下几个库和工具：
 4. **安装 Jaffree 库**: Jaffree 库在“code”文件夹中已就绪，所以请确保你下载了完整的文件并且程序能够访问其中的.jar文件。
 
 5. **你应该保证程序目录是这样的：**
-Processing-Works/
-├── README.md
-├── Visualizer/
-│   ├── Visualizer.pde
-│   ├── song1.mp3
-│   ├── song2.flac
-│   ├── song3.wav
-│   └── code/
-│       ├── jaffree-2024.08.29.jar
-│       ├── slf4j-api-2.0.16.jar
-│       └── slf4j-simple-2.0.16.jar
+Processing-Works/                                                                                                                                                               
+├── README.md                                                                                                                                                                           
+├── Visualizer/                                                                                                                                                                                 
+│         ├── Visualizer.pde                                                                                                                                                                        
+│         ├── song1.mp3                                                                                                                                                                        
+│         ├── song2.flac                                                                                                                                                                        
+│         ├── song3.wav                                                                                                                                                                           
+│         └── code/                                                                                                                                                                                 
+│             ├── jaffree-2024.08.29.jar                                                                                                                                                                                 
+│             ├── slf4j-api-2.0.16.jar                                                                                                                                                                  
+│             └── slf4j-simple-2.0.16.jar                                                                                                                                                         
 **请务必在.pde文件同目录下添加任意包括 `.mp3`, `.wav`, `.au`, 和 `.flac` 的音乐文件**
 
 ## 运行项目
