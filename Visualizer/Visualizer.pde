@@ -83,9 +83,9 @@ void draw() {
   }
 
   // 如果没有 FLAC 文件在播放，进行节拍检测
-  //if (!isFlacPlaying && player != null) { 
-  beat.detect(player.mix);
-  //}
+  if (!isFlacPlaying && player != null) { 
+    beat.detect(player.mix);
+  }
 
   // 更新和渲染图形系统
   MS.update();
