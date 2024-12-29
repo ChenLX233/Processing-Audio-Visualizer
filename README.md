@@ -1,5 +1,5 @@
 # Processing-Works
-My processing works. You can copy them instead of using for business.
+My processing works. You can copy them instead of using for business.Borrowed from **https://github.com/hh-1106/EveOneSketch/tree/main/easing** and modified and innovated, this program uses the MPL-2.0 license, and I hope to continue the open source spirit
 
 Processing-Works 是一个基于 Processing 框架的音频可视化项目，旨在通过图形效果展示音频的节奏和波形。Processing 是一个灵活的软件素描本和语言，适用于学习如何编码的初学者以及希望以视觉艺术形式编程的专业人士。Processing-Works 项目利用了 Processing 的强大图形处理能力，并结合了 Minim 音频库来处理和分析音频文件。这个项目不仅展示了音频的可视化效果，还提供了丰富的互动功能，使用户能够通过简单的操作体验到音频与视觉艺术的融合。
 
