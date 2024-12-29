@@ -43,7 +43,7 @@ Visualizer 项目依赖以下几个库和工具：
 
 4. **安装 Jaffree 库**: Jaffree 库在“code”文件夹中已就绪，所以请确保你下载了完整的文件并且程序能够访问其中的.jar文件。
 
-5. **你应该保证程序目录是这样的：**
+5. **你应该保证程序目录是这样的：**                                                                                                                                                         
 Visualizer/                                                                                                                                                               
 ├── README.md                                                                                                                                                                           
 ├── Visualizer/                                                                                                                                                                                 
