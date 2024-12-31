@@ -1,5 +1,5 @@
 # Visualizer
-Visualizer 是一个基于 Processing 框架的音频可视化项目，旨在通过图形效果展示音频的节奏和波形。此项目借鉴并修改自 EveOneSketch，采用 MIT 许可证发布，致力于延续开源精神。
+Visualizer 是一个基于 Processing 框架的音频可视化项目，旨在通过图形效果展示音频的节奏和波形。此项目借鉴并修改自[EveOneSketch](https://github.com/hh-1106/EveOneSketch/tree/main/easing)，采用 MIT 许可证发布，致力于延续开源精神。
 
 ## 项目功能
 
@@ -39,7 +39,7 @@ Visualizer 项目依赖以下几个库和工具：
 3. **安装 Minim 库**: 在 Processing 软件中，打开“Sketch”菜单，选择“Import Library...”，然后选择“Add Library...”。在弹出的窗口中搜索 Minim 并点击安装。
 
 4. **安装 Jaffree 库**: 确保下载完整的项目文件，项目中已包含 Jaffree 库的 .jar 文件。                                                                                       
-5. **安装FFmpeg**：您需要安装FFmpeg工具，可以从FFmpeg官网下载适用于您操作系统的版本。安装FFmpeg并确保其可执行文件路径已添加到系统的环境变量中。你可以参考：https://blog.csdn.net/m0_47449768/article/details/130102406 或直接搜索"如何安装FFmpeg"。                                                                                                                   
+5. **安装FFmpeg**：您需要安装FFmpeg工具，可以从FFmpeg官网下载适用于您操作系统的版本。安装FFmpeg并确保其可执行文件路径已添加到系统的环境变量中。你可以参考：[ffmpeg安装教程](https://blog.csdn.net/m0_47449768/article/details/130102406) 或直接搜索"如何安装FFmpeg"。                                                                                                                   
 7. **目录结构：**                                                                                                                                                                                                         
 Visualizer/                                                                                                                                                               
 ├── README.md                                                                                                                                                                           
