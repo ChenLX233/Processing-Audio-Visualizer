@@ -41,9 +41,9 @@ Visualizer 项目依赖以下几个库和工具：
    git clone https://github.com/ChenLX233/Visualizer.git
 3. **安装 Minim 库**: 在 Processing 软件中，打开“Sketch”菜单，选择“Import Library...”，然后选择“Add Library...”。在弹出的窗口中搜索 Minim 并点击安装。
 
-4. **安装 Jaffree 库**: Jaffree 库在“code”文件夹中已就绪，所以请确保你下载了完整的文件并且程序能够访问其中的.jar文件。
-
-5. **你应该保证程序目录是这样的：**                                                                                                                                                         
+4. **安装 Jaffree 库**: Jaffree 库在“code”文件夹中已就绪，所以请确保你下载了完整的文件并且程序能够访问其中的.jar文件。                                                                                 
+5. **安装FFmpeg**：您需要安装FFmpeg工具，可以从FFmpeg官网下载适用于您操作系统的版本。安装FFmpeg并确保其可执行文件路径已添加到系统的环境变量中。你可以参考：https://blog.csdn.net/m0_47449768/article/details/130102406 或直接搜索"如何安装FFmpeg"。                                                                                                                   
+7. **你应该保证程序目录是这样的：**                                                                                                                                                         
 Visualizer/                                                                                                                                                               
 ├── README.md                                                                                                                                                                           
 ├── Visualizer/                                                                                                                                                                                 
