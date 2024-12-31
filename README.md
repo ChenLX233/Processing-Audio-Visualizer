@@ -31,6 +31,10 @@ Visualizer 项目依赖以下几个库和工具：
 
 ### 环境配置
 
+##(1)**直接使用EXE文件体验而不用配置环境文件**： 从Release下载最新版本并直接解压运行  **参考教程:[从Github下载Release文件](https://zhuanlan.zhihu.com/p/148270917?from_voters_page=true)**
+
+##(2)**使用原始代码配置：**
+
 1. **安装 Processing**：从 [Processing 官方网站](https://processing.org/download/) 下载并安装最新版本的 Processing 软件。
 
 2. **下载项目文件**：将 Visualizer 项目克隆到本地计算机。你可以使用以下命令将项目克隆到本地：
